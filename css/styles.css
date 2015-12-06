@@ -43,12 +43,35 @@ nav.navbar.navbar-default {
 	background-image:url(../img/restaurant.jpg);
 
 }
+.slide-two .carousel-caption{
+	/*padding-bottom: 15%;*/
+	height: 60%;
+
+	
+}
 .slide-three{
 	background-image:url(../img/farm.jpg);
 }
+
+.slide-three .carousel-caption{
+	height: 60%;
+	
+}
+
 .carousel-inner .item{
 	height:600px;
 	background-size: cover;
 	background-position: center;
 }
+
+
+
+
+.slide-one-logo{
+	max-height: 300px;
+}
+
+
+
+
 /*end of carousel*/ 
